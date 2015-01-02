@@ -61,6 +61,8 @@ Huskeliste for bil
 - Ha en sump-guard, ikke ødelegge bensintanken eller motoren
 - Bygge tak-boks med hengelås, med ramme til ekstra-dekk?
 - Lage en skikkelig bra tegne-plate på bilen, ha med tusjer
+- Kraftige lykter på taket eller fronten
+- Noe å henge den ene siden av hengekøyer fra på takgrinda?
 
 Stylingsforslag for bil
 -----------------------
