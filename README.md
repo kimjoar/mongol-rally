@@ -63,6 +63,10 @@ Huskeliste for bil
 - Lage en skikkelig bra tegne-plate på bilen, ha med tusjer
 - Kraftige lykter på taket eller fronten
 - Noe å henge den ene siden av hengekøyer fra på takgrinda?
+- Jumper cables
+- Extra Oil, Windshield Wiper Fluid, Antifreeze
+- Extra Air Filter and Fan Belt
+- Epoxy Gas Tank Sealer
 
 Stylingsforslag for bil
 -----------------------
