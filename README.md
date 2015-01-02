@@ -35,6 +35,7 @@ Sponsing?
 Huskeliste
 ----------
 
+- Vaksiner
 - Papirkart
 - Carry at least one 20-liter Jerry Can
 - Buy the highway vignettesa (road tax) in Europe and Turkey: http://www.dalnicni-znamky.com/en/
