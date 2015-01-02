@@ -3,6 +3,8 @@ Mongol Rally
 
 Starter: søndag 19. juli
 
+Tidsplan: http://en.wikipedia.org/wiki/Mongol_Rally#Routes ("and most teams complete the rally within three to four weeks..")
+
 Går til Ulan-Ude i Russland (én dags kjøring fra Ulan Bator)
 
 Fly tilbake til Europa kommer på 2-4K. Billetter til Berlin (og noen andre destinasjoner i Europa) kommer på rundt 2K. Via Moskva kan også være en mulighet. Se for eksempel
