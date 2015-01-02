@@ -14,3 +14,28 @@ Potensielle biler
 -----------------
 
 - Skoda Fabia 1.2, e.g. http://www.finn.no/finn/car/used/object?finnkode=54516135
+
+Huskeliste for bil
+------------------
+- Reservedekk
+- Måte å lokalisere hull, Lappesett, pumpe
+
+Stylingsforslag for bil
+-----------------------
+- Hvitt panser for signaturer av folk vi møter underveis
+- Kart i bakruta
+
+Avklaringspunkter
+----------------
+- Visum
+ - Hvor tidlig må vi søke, hvordan søke?
+- Hvordan kommunisere med omverdnen?
+  - Satelitt? Telefon?
+- Hva slags gaver kan vi ta med?
+
+Smidig-struktur
+---------------
+- Sprinter - Punkter som må nås innen visse tider for at vi kan være i rute
+- Daglig retrospektiv - Hva har skjedd siden sist som vi må notere oss
+- Standup - Hva skjer i dag
+- Filming underveis kan gi en kul opplæringsvideo.
