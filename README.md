@@ -52,6 +52,7 @@ Avklaringspunkter
  - Hvor tidlig må vi søke, hvordan søke?
 - Bil-papirer
  - http://en.wikipedia.org/wiki/Carnet_de_Passages
+ - For Pamir Highway: GBAO (Gorno-Badakhshan Autonomous Oblast-permit)
 - Hvordan kommunisere med omverdnen?
   - Satelitt? Telefon?
 - Hva slags gaver kan vi ta med?
