@@ -21,6 +21,9 @@ Huskeliste for bil
 - Måte å lokalisere hull, Lappesett, pumpe
 - Planker e.l. til å komme seg ut av gjørme og sand
 - Taue-tau
+- Ha en sump-guard, ikke ødelegge bensintanken eller motoren
+- Bygge tak-boks med hengelås, med ramme til ekstra-dekk?
+- Lage en skikkelig bra tegne-plate på bilen, ha med tusjer
 
 Stylingsforslag for bil
 -----------------------
