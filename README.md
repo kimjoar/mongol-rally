@@ -30,8 +30,16 @@ Sponsing?
 - Kontakte bil-firmaet, f.eks. Skoda, og spørre om de kan gjøre en skikkelig sjekk av bilen
 - Kontakte dekk-firma. Vi trenger minst 6 gode dekk!
 
+Huskeliste
+----------
+
+- Papirkart
+- Carry at least one 20-liter Jerry Can
+- Buy the highway vignettesa (road tax) in Europe and Turkey: http://www.dalnicni-znamky.com/en/
+
 Huskeliste for bil
 ------------------
+
 - Reservedekk (minst 2x)
 - Reservedeler til dempere (anbefalt?)
 - Litt utstyr til å bytte dekk, åpne radiator, olje, luftfilter, etc.
