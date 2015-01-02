@@ -44,6 +44,7 @@ Huskeliste
 - Having Lonely Planet guides is really useful - we didn't really get much out of Ukraine, probably because we had no map and did no research.
 - Always declare all of your money. If a search reveals more money than you have declared, the customs officers may decide to take it from you...'You haven't declared it, so it doesn't exist, so I'm taking it'. To be safe, just list everything valuable - cameras, iPods, mobile phones etc. Don't rush the guards either, sometimes they just like to feel important.
 - Miniature whiskies are good gifts, generally better received than cigarettes.
+- Polaroid-kamera
 
 Huskeliste for bil
 ------------------
