@@ -34,6 +34,8 @@ Avklaringspunkter
 ----------------
 - Visum
  - Hvor tidlig må vi søke, hvordan søke?
+- Bil-papirer
+ - http://en.wikipedia.org/wiki/Carnet_de_Passages
 - Hvordan kommunisere med omverdnen?
   - Satelitt? Telefon?
 - Hva slags gaver kan vi ta med?
