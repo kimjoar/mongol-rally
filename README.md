@@ -41,6 +41,8 @@ Huskeliste
 - 2-3 GoPros
 - International Driving Permit. These are about £5 from the post office. Police always ask for your documents. If you get several of these (we took 3 each) then you can give one over to the police instead of your UK licence, car documents, insurance, whatever. Then when they demand money to get the document back, it doesn't really matter as you have spares, so you can just tell them you're going to the next town to the bank and then you'll come back.
 - Having Lonely Planet guides is really useful - we didn't really get much out of Ukraine, probably because we had no map and did no research.
+- Always declare all of your money. If a search reveals more money than you have declared, the customs officers may decide to take it from you...'You haven't declared it, so it doesn't exist, so I'm taking it'. To be safe, just list everything valuable - cameras, iPods, mobile phones etc. Don't rush the guards either, sometimes they just like to feel important.
+- Miniature whiskies are good gifts, generally better received than cigarettes.
 
 Huskeliste for bil
 ------------------
