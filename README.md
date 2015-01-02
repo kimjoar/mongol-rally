@@ -38,6 +38,10 @@ Avklaringspunkter
   - Satelitt? Telefon?
 - Hva slags gaver kan vi ta med?
 
+Bonus
+---------------
+- Skal vi ta med høydemåler? GPS-tracker?
+
 Smidig-struktur
 ---------------
 - Sprinter - Punkter som må nås innen visse tider for at vi kan være i rute
