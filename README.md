@@ -12,6 +12,22 @@ Fly tilbake til Europa kommer på 2-4K. Billetter til Berlin (og noen andre dest
 - https://www.google.no/flights/#search;f=UUD;t=BER,TXL,SXF;d=2015-08-17;r=2015-08-21;tt=o
 - https://www.google.no/flights/#search;f=UUD;t=r-Europe-0x46ed8886cfadda85%253A0x72ef99e6b3fcf079;d=2015-08-12;r=2015-08-16;tt=o;mc=m
 
+Kostnader
+---------
+
+- Påmelding: £600 = 7000 NOK
+- Bil: 8-20000 NOK
+- Visum (£100–600+). Sjekk [The Visa Machine](http://mongolrally.thevisamachine.com/)
+- Drivstoff
+- Mat
+- Bilen må transporteres fra Ulan-Ude. Pris anslås til £800 = 9200 NOK
+
+Sponsing?
+---------
+
+- Kontakte bil-firmaet, f.eks. Skoda, og spørre om de kan gjøre en skikkelig sjekk av bilen
+- Kontakte dekk-firma. Vi trenger minst 6 gode dekk!
+
 Huskeliste for bil
 ------------------
 - Reservedekk (minst 2x)
@@ -36,7 +52,6 @@ Avklaringspunkter
  - Hvor tidlig må vi søke, hvordan søke?
 - Bil-papirer
  - http://en.wikipedia.org/wiki/Carnet_de_Passages
- - For Pamir Highway: GBAO (Gorno-Badakhshan Autonomous Oblast-permit)
 - Hvordan kommunisere med omverdnen?
   - Satelitt? Telefon?
 - Hva slags gaver kan vi ta med?
