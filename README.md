@@ -14,6 +14,8 @@ Fly tilbake til Europa kommer på 2-4K. Billetter til Berlin (og noen andre dest
 - https://www.google.no/flights/#search;f=UUD;t=BER,TXL,SXF;d=2015-08-17;r=2015-08-21;tt=o
 - https://www.google.no/flights/#search;f=UUD;t=r-Europe-0x46ed8886cfadda85%253A0x72ef99e6b3fcf079;d=2015-08-12;r=2015-08-16;tt=o;mc=m
 
+Kart: https://www.google.com/maps/d/edit?mid=zfiAEgr1sBAw.kA909rvOUUzI
+
 Kostnader
 ---------
 
