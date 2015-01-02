@@ -40,6 +40,7 @@ Huskeliste
 - Buy the highway vignettesa (road tax) in Europe and Turkey: http://www.dalnicni-znamky.com/en/
 - 2-3 GoPros
 - International Driving Permit. These are about £5 from the post office. Police always ask for your documents. If you get several of these (we took 3 each) then you can give one over to the police instead of your UK licence, car documents, insurance, whatever. Then when they demand money to get the document back, it doesn't really matter as you have spares, so you can just tell them you're going to the next town to the bank and then you'll come back.
+- Having Lonely Planet guides is really useful - we didn't really get much out of Ukraine, probably because we had no map and did no research.
 
 Huskeliste for bil
 ------------------
