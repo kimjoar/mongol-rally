@@ -19,6 +19,8 @@ Kostnader
 
 - Påmelding: £600 = 7000 NOK
 - Bil: 8-20000 NOK
+- Bilforsikring?
+- Accomodation
 - Visum (£100–600+). Sjekk [The Visa Machine](http://mongolrally.thevisamachine.com/)
 - Drivstoff
 - Mat
