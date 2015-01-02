@@ -17,8 +17,13 @@ Potensielle biler
 
 Huskeliste for bil
 ------------------
-- Reservedekk
+- Reservedekk (minst 2x)
+- Reservedeler til dempere (anbefalt?)
+- Litt utstyr til å bytte dekk, åpne radiator, olje, luftfilter, etc.
+- Liten jekk
 - Måte å lokalisere hull, Lappesett, pumpe
+- Planker e.l. til å komme seg ut av gjørme og sand
+- Taue-tau
 
 Stylingsforslag for bil
 -----------------------
