@@ -38,7 +38,7 @@ Huskeliste
 ----------
 
 - Vaksiner
-- Papirkart
+- Papirkart (Anbefaling lest et par plasser: "If you can, buy your Russia and Mongolia maps in Cyrillic")
 - Carry at least one 20-liter Jerry Can
 - Buy the highway vignettesa (road tax) in Europe and Turkey: http://www.dalnicni-znamky.com/en/
 - 2-3 GoPros
@@ -47,6 +47,8 @@ Huskeliste
 - Always declare all of your money. If a search reveals more money than you have declared, the customs officers may decide to take it from you...'You haven't declared it, so it doesn't exist, so I'm taking it'. To be safe, just list everything valuable - cameras, iPods, mobile phones etc. Don't rush the guards either, sometimes they just like to feel important.
 - Miniature whiskies are good gifts, generally better received than cigarettes.
 - Polaroid-kamera
+- Camp chairs
+
 
 Huskeliste for bil
 ------------------
