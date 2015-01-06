@@ -38,6 +38,7 @@ Huskeliste
 ----------
 
 - Vaksiner
+- Reiseforsikringsbevis
 - Papirkart (Anbefaling lest et par plasser: "If you can, buy your Russia and Mongolia maps in Cyrillic")
 - Carry at least one 20-liter Jerry Can
 - Buy the highway vignettesa (road tax) in Europe and Turkey: http://www.dalnicni-znamky.com/en/
