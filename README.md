@@ -97,3 +97,131 @@ Smidig-struktur
 - Daglig retrospektiv - Hva har skjedd siden sist som vi må notere oss
 - Standup - Hva skjer i dag
 - Filming underveis kan gi en kul opplæringsvideo.
+
+RUTE
+----
+
+Mulig rute:
+
+- Sverige
+- Danmark
+- Tyskland
+- (Nederland)
+- Belgia
+- Frankrike
+- England
+- Franrike
+- Tyskland
+- Tsjekkia
+- Slovakia
+- Ungarn
+- Romania
+- Bulgaria
+- Tyrkia
+- Georgia
+- Armenia
+- Aserbajdsjan
+- Iran
+- Turkmenistan
+- Uzbekistan
+- Tajikistan
+- Kyrgyzstan
+- Kazakhstan
+- Russland
+- Mongolia
+- Russland
+
+### Tyrkia
+
+VISUM
+
+> "Du kan kun søke om turist- og forretningsvisum på nettet. Turistvisumet kan brukes ved flere innreiser(multiple entry)"
+
+- Kostnad: USD 20
+- Søk: https://www.evisa.gov.tr/en/
+
+### Georgia
+
+IKKE VISUM
+
+> "Norske borgere trenger ikke visum til Georgia for opphold under 90 dager"
+
+Vaksine
+
+> "For innreise til Georgia bør man være vaksinert mot difteri, stivkrampe, kikhoste, poliomyelitt og hepatitt A. Vaksine mot tyfoidfeber anbefales ved lengre opphold."
+
+### Armenia
+
+IKKE VISUM
+
+> "Fra 10. januar 2013 kan norske statsborgere reise til Armenia og oppholde seg der i inntil 180 dager per år uten visum, så fremt de har gyldig pass. Merk at passet må være gyldig seks måneder etter utreise fra Armenia."
+
+> "The borders with Turkey and Azerbaijan are closed."
+
+> "It is possible to drive to Armenia via Iran or Georgia."
+
+### Aserbajdsjan
+
+VISUM
+
+> "For utstedelse av visum må den aserbajdsjanske ambassaden i Stockholm kontaktes, i god tid før planlagt innreisedato"
+
+### Iran
+
+VISUM
+
+> "Visum må søkes i god tid før planlagt reise, behandlingstiden varierer men kan ta opp mot to måneder. Visum kan søkes ved iranske ambassader og konsulater, i Norge fra den iranske ambassaden i Oslo. Det gis normalt turistvisum med 30 dagers varighet."
+
+### Turkmenistan
+
+VISUM
+
+> "Nordmenn kan søke om visa ved Turkmenistans ambassade i London eller Berlin."
+
+### Uzbekistan
+
+VISUM
+
+> "Within 3 days of entrance to the country, you need to make registration, an official statement, indicating the address you are staying at. If you stay at reasonable hotels, they will do it by default, however if you stay at a house, you will face a lot of bureaucratic paperworks in order to register yourself. Border officials often do not ask for these if you are friendly but they could and the fines can be stiff."
+
+Viktig:
+
+> "Travel permits are required for the mountain areas near the border to Tajikistan and Kyrgyzstan, including great parts of the Ugam-Chatkal National Park and Zaamin National Park."
+
+### Tajikistan
+
+VISUM
+
+### Kyrgyzstan
+
+IKKE VISUM
+
+> "Visum ikke lenger nødvendig for nordmenn reisende i Kirgisistan for inntil 60 dager."
+
+### Kazakhstan
+
+VISUM
+
+### Mongolia
+
+IKKE VISUM
+
+> "Norske borgere trenger ikke visum til Mongolia ved opphold inntil 30 dager."
+
+### Russland
+
+VISUM
+
+> "Russland har visumplikt for norske statsborgere både ved inn- og utreise."
+
+> "Et turistvisum kan ikke ha lengre varighet enn 30 dager. Visumpliktige utlendinger som skal reise på turistvisum til Russland, må kunne fremvise bekreftelse, turistvoucher og returbilletter med bekreftet utreisedato."
+
+> "Gebyret for å behandle søknader om turistvisum for norske statsborgere samt borgere av EU-land beløper seg til NOK 315 (EUR 35)"
+
+Hm, dette må vi undersøke mer:
+
+> "Kun hotellreservasjon er ikke nok for å få turistvisum. Hele hotelloppholdet må være forhåndsbetalt før man søker om visum."
+
+> "A tourist invitation (also called reservation confirmation) is a letter of confirmation of booking and pre-payment of accommodation and travel arrangements in Russia. It is accompanied by a tourist voucher. These two documents can be issued by "government approved" tour operators, hotels, online hotel booking services or Russian travel agencies"
+
+> "For independent travellers planning to travel around Russia, it is best to get an invitation through an agency. These agencies will issue a confirmation for a fee (approx. $30 or £15), without actually collecting the accommodation prepayment"
