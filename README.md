@@ -172,6 +172,12 @@ VISUM
 
 > "For utstedelse av visum må den aserbajdsjanske ambassaden i Stockholm kontaktes, i god tid før planlagt innreisedato"
 
+Visa machine:
+
+- Processing Time: 27 days
+- Our fee: £40.00
+- Embassy fees: £55.00
+
 ### Iran
 
 VISUM
