@@ -140,6 +140,12 @@ VISUM
 - Kostnad: USD 20
 - Søk: https://www.evisa.gov.tr/en/
 
+Visa machine:
+
+- Duration: 6 Months
+- Our fee: £20.00
+- Embassy fees: £16.00
+
 ### Georgia
 
 IKKE VISUM
@@ -172,11 +178,24 @@ VISUM
 
 > "Visum må søkes i god tid før planlagt reise, behandlingstiden varierer men kan ta opp mot to måneder. Visum kan søkes ved iranske ambassader og konsulater, i Norge fra den iranske ambassaden i Oslo. Det gis normalt turistvisum med 30 dagers varighet."
 
+Visa machine:
+
+- Processing Time: 22 days
+- Our fee: £25.00
+- Embassy fees: £55.00
+
 ### Turkmenistan
 
 VISUM
 
 > "Nordmenn kan søke om visa ved Turkmenistans ambassade i London eller Berlin."
+
+Visa machine:
+
+- Duration: 30 Days
+- Processing Time: 10 days
+- Our fee: £50.00
+- Embassy fees: £50.00
 
 ### Uzbekistan
 
@@ -188,9 +207,45 @@ Viktig:
 
 > "Travel permits are required for the mountain areas near the border to Tajikistan and Kyrgyzstan, including great parts of the Ugam-Chatkal National Park and Zaamin National Park."
 
+Visa machine:
+
+- TOURIST - SINGLE ENTRY - 7 DAYS
+  - Duration: 7 Days
+  - Processing Time: 12 days
+  - Our fee: £46.00
+  - Embassy fees: £88.00
+  - Uzbekistan Invitation Single Entry: £70.00
+- TOURIST - SINGLE ENTRY - 15 DAYS
+  - Duration: 15 Days
+  - Processing Time: 12 days
+  - Our fee: £46.00
+  - Embassy fees: £95.00
+  - Uzbekistan Invitation Single Entry: £70.00
+- TOURIST - DOUBLE ENTRY - 30 DAYS
+  - Duration: 30 Days
+  - Processing Time: 12 days
+  - Our fee: £46.00
+  - Embassy fees: £109.00
+  - Uzbekistan Invite double entry: £80.00
+
 ### Tajikistan
 
 VISUM
+
+Visa machine
+
+- TOURIST - SINGLE ENTRY - 14 DAYS
+  - Duration: 14 Days
+  - Processing Time: 7 days
+  - Our fee: £46.00
+  - Embassy fees: £60.00
+  - Tajikistan GBAO Permit: £50.00
+- TOURIST - SINGLE ENTRY - 30 DAYS
+  - Duration: 30 Days
+  - Processing Time: 7 days
+  - Our fee: £46.00
+  - Embassy fees: £80.00
+  - Tajikistan GBAO Permit: £50.00
 
 ### Kyrgyzstan
 
@@ -201,6 +256,13 @@ IKKE VISUM
 ### Kazakhstan
 
 VISUM
+
+Visa machine:
+
+- Duration: 30 Days
+- Processing Time: 7 days
+- Our fee: £60.00
+- Embassy fees: £35.00
 
 ### Mongolia
 
@@ -225,3 +287,8 @@ Hm, dette må vi undersøke mer:
 > "A tourist invitation (also called reservation confirmation) is a letter of confirmation of booking and pre-payment of accommodation and travel arrangements in Russia. It is accompanied by a tourist voucher. These two documents can be issued by "government approved" tour operators, hotels, online hotel booking services or Russian travel agencies"
 
 > "For independent travellers planning to travel around Russia, it is best to get an invitation through an agency. These agencies will issue a confirmation for a fee (approx. $30 or £15), without actually collecting the accommodation prepayment"
+
+Visa machine:
+
+> "Unfortunately you have to be a resident of the UK or Ireland in order for us to help you with a visa for this country."
+
