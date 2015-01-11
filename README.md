@@ -43,13 +43,29 @@ Huskeliste
 - Carry at least one 20-liter Jerry Can
 - Buy the highway vignettesa (road tax) in Europe and Turkey: http://www.dalnicni-znamky.com/en/
 - 2-3 GoPros
-- International Driving Permit. These are about £5 from the post office. Police always ask for your documents. If you get several of these (we took 3 each) then you can give one over to the police instead of your UK licence, car documents, insurance, whatever. Then when they demand money to get the document back, it doesn't really matter as you have spares, so you can just tell them you're going to the next town to the bank and then you'll come back.
 - Having Lonely Planet guides is really useful - we didn't really get much out of Ukraine, probably because we had no map and did no research.
 - Always declare all of your money. If a search reveals more money than you have declared, the customs officers may decide to take it from you...'You haven't declared it, so it doesn't exist, so I'm taking it'. To be safe, just list everything valuable - cameras, iPods, mobile phones etc. Don't rush the guards either, sometimes they just like to feel important.
 - Miniature whiskies are good gifts, generally better received than cigarettes.
 - Polaroid-kamera
 - Camp chairs
 
+### International Driving Permit
+
+> Police always ask for your documents. If you get several of these (we took 3
+> each) then you can give one over to the police instead of your UK licence,
+> car documents, insurance, whatever.
+
+Fra vegvesen.no:
+
+> Internasjonalt førerkort er et papirhefte i A6-format med grått omslag og
+> hvite sider. Slikt førerkort får du i Norge bare ved henvendelse til NAF
+> (Norges Automobilforbund), KNA (Kongelig Norsk Automobilklub) eller MA
+> (Motorførerenes Avholdsforbund). Det internasjonale førerkortet er gyldig i
+> ett år. Ulike internasjonale førerkort som tilbys på Internett, er verdiløse
+> og gir ingen førerrettigheter.
+
+Det finnes to typer, 1949 og 1968. Ser muligens ut til at det er best å ha minst ett av hver:
+https://www.naf.no/tips-og-rad/bilferie-og-reise/reisetips/internasjonalt-forerkort/hvilke-land-krever-internasjonalt-forerkort/
 
 Huskeliste for bil
 ------------------
