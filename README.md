@@ -71,6 +71,7 @@ https://www.naf.no/tips-og-rad/bilferie-og-reise/reisetips/internasjonalt-forerk
 Huskeliste for bil
 ------------------
 
+- [Carnet de Passage](https://www.naf.no/tips-og-rad/bilferie-og-reise/reisetips/internasjonalt-toll--og-avgiftsdokument/)
 - Reservedekk (minst 2x)
 - Reservedeler til dempere (anbefalt?)
 - Litt utstyr til å bytte dekk, åpne radiator, olje, luftfilter, etc.
