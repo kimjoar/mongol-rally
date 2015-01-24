@@ -205,6 +205,24 @@ VISUM
 
 PS: Kan være at transit visa (max 10 dager) er enklere enn tourist visa, iflg. wikitravel
 
+Right, I'm back from the Iranian embassy in the Hague. Here are my findings:
+British Citizens:
+* You need a letter of invite from someone in Iran, which is brought to an Iranian travel agency. They will then issue a reference number which is needed to get a visa. You cannot get a visa without a reference number. Visa takes 3 days to process with a reference number.
+* He wasn't aware of any need for a guide/escort, and if needed must be something to do with the travel agency and reference number
+
+Non British:
+* You can either go the reference number route as above, or just apply without a reference number. This takes 2 weeks to process instead of 3 days.
+
+All:
+* Visas are valid for 3 months from date of issue, they cannot be post-dated. So earliest application dates are 3 months, 2 weeks from the 19th of July or thereabouts.
+* CdP can be obtained on the border by leaving a deposit, he didn't have much info here and suggests we just get a CdP as it's "easier".
+* Passports for non-dutch residents need to be handed in in person if this is your first time to Iran, but we don't need to provide Dutch residence cards (yay). 
+
+Things I forgot to ask:
+* Do we need to collect passports in person
+* Visa fees (I heard two payments of 10 euro and 23 euros from those in front of me, which seems very little)
+* Is there a sameday service? (the guy after me got a 1hr service for what seemed to be 10euros, but his was a business visa)
+
 Visa machine:
 
 - Processing Time: 22 days
