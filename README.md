@@ -203,6 +203,8 @@ VISUM
 
 > "Visum må søkes i god tid før planlagt reise, behandlingstiden varierer men kan ta opp mot to måneder. Visum kan søkes ved iranske ambassader og konsulater, i Norge fra den iranske ambassaden i Oslo. Det gis normalt turistvisum med 30 dagers varighet."
 
+PS: Kan være at transit visa (max 10 dager) er enklere enn tourist visa, iflg. wikitravel
+
 Visa machine:
 
 - Processing Time: 22 days
