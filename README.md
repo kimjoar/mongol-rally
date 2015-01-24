@@ -49,6 +49,7 @@ Huskeliste
 - Miniature whiskies are good gifts, generally better received than cigarettes.
 - Polaroid-kamera
 - Camp chairs
+- Printe ut oversikt over nød-telefonnummer og reiseguider for alle land
 
 ### International Driving Permit
 
