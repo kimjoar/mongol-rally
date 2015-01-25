@@ -1,0 +1,31 @@
+{
+  "name": "mongo",
+  "version": "1.0.0",
+  "description": "Mongol Rally ============",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kjbekkelund/mongo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kjbekkelund/mongo/issues"
+  },
+  "homepage": "https://github.com/kjbekkelund/mongo",
+  "dependencies": {
+    "bluebird": "^2.9.1",
+    "body": "^4.5.0",
+    "ecstatic": "^0.5.8",
+    "elasticsearch": "^3.1.1",
+    "pm2": "^0.12.3",
+    "ramda": "^0.8.0",
+    "routes": "^2.0.0",
+    "routine": "^0.2.0",
+    "tape": "^3.4.0",
+    "twilio": "^1.10.0"
+  }
+}

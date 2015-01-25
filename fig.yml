@@ -1,0 +1,14 @@
+web:
+  build: webapp
+  ports:
+   - "8000:8000"
+  links:
+   - elasticsearch
+elasticsearch:
+  build: elasticsearch
+  ports:
+   - "9200:9200"
+   - "9300:9300"
+  volumes:
+   - ./data:/data
+
