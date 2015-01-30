@@ -1,5 +1,5 @@
 var http = require('http');
-var ecstatic = require('ecstatic')(__dirname + '/static');
+var ecstatic = require('ecstatic')(__dirname + '/dist');
 
 var esHelper = require('./esHelper');
 var routes = require('./routes');

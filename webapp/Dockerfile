@@ -13,12 +13,16 @@ RUN cd /tmp && npm install
 RUN mkdir -p /opt/app \
   && cp -a /tmp/node_modules /opt/app/
 
+# Clean everything
+RUN apt-get clean && \
+  rm -rf /var/lib/apt/lists/* && \
+  npm cache clear
+
 WORKDIR /opt/app
 
 ADD . /opt/app
 
-# RUN gulp
+RUN gulp
 
-# ENTRYPOINT ["pm2", "start", "index.js", "--no-daemon"]
-ENTRYPOINT ["node", "index.js"]
+CMD ["node", "index.js"]
 
