@@ -3,14 +3,12 @@ var router = require('routes')();
 var Twilio = require('twilio');
 
 var messageService = require('./messages/messageService');
+var routeService = require('./route/routeService');
 
-router.addRoute('/', function(req, res, params) {
-    res.end('frontpage');
-});
-
-router.addRoute('/test/:name', function(req, res, params) {
-    console.log('test', params);
-    res.end();
+router.addRoute('/route', function(req, res, params) {
+    routeService.fetch().then(function(route) {
+        res.end(JSON.stringify(route));
+    });
 });
 
 router.addRoute('/sms', function(req, res, params) {

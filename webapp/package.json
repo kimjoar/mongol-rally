@@ -19,6 +19,7 @@
   "dependencies": {
     "bluebird": "^2.9.1",
     "body": "^4.5.0",
+    "diacritics": "^1.2.1",
     "ecstatic": "^0.5.8",
     "elasticsearch": "^3.1.1",
     "pm2": "^0.12.3",

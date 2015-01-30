@@ -12,6 +12,7 @@ var locations = [
     "Oslo, Norway",
     "Copenhagen, Denmark",
     "London, UK",
+    "Transfăgărășan, Romania",
     "Istanbul, Turkey",
     "Tabriz, Iran",
     "Tehran, Iran",
@@ -34,6 +35,10 @@ var legs = R.zip(
 );
 
 module.exports = function() {
+    return deleteRoutes().then(fetchAndSaveRoutes);
+};
+
+function fetchAndSaveRoutes() {
     var requests = legs.map(function(leg) {
         var start = leg[0];
         var end = leg[1];
@@ -52,16 +57,19 @@ module.exports = function() {
 
     return waterfall(requests, function(req) {
         return function() {
-            return request(req)
-                .then(save);
+            return request(req).then(save);
         }
-    });
-};
+    })
+}
 
 function waterfall(tasks, cb) {
     return tasks.reduce(function(prevTask, task) {
         return prevTask.then(cb(task)).delay(1000);
     }, Promise.resolve());
+}
+
+function deleteRoutes() {
+    return routeService.deleteAll();
 }
 
 function save(result) {
