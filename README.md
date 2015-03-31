@@ -41,14 +41,14 @@ Huskeliste
 - Reiseforsikringsbevis
 - Papirkart (Anbefaling lest et par plasser: "If you can, buy your Russia and Mongolia maps in Cyrillic")
 - Carry at least one 20-liter Jerry Can
-- Buy the highway vignettesa (road tax) in Europe and Turkey: http://www.dalnicni-znamky.com/en/
+- Buy the highway vignettes (road tax) in Europe and Turkey: http://www.dalnicni-znamky.com/en/
 - 2-3 GoPros
 - Drone? http://www.amazon.com/DJI-Phantom-Quadcopter-Zenmuse-3-Axis/dp/B00JD4TQ8Q
 - Having Lonely Planet guides is really useful - we didn't really get much out of Ukraine, probably because we had no map and did no research.
 - Always declare all of your money. If a search reveals more money than you have declared, the customs officers may decide to take it from you...'You haven't declared it, so it doesn't exist, so I'm taking it'. To be safe, just list everything valuable - cameras, iPods, mobile phones etc. Don't rush the guards either, sometimes they just like to feel important.
 - Miniature whiskies are good gifts, generally better received than cigarettes.
 - Polaroid-kamera
-- Camp chairs
+- Campingstoler, campingbord
 - Printe ut oversikt over nød-telefonnummer og reiseguider for alle land
 - Å sette av minst 8 uker til eventyr her: http://pamirhighwayadventure.com/travel-tour/
 - Photo challenge: https://docs.google.com/a/stack.no/spreadsheets/d/1eMwZMiXej2shufD-Oqh_JktZvIe-O-tVcWkGHMDU4ek/edit#gid=0
@@ -78,6 +78,7 @@ Huskeliste for bil
 - Reservedekk (minst 2x)
 - Reservedeler til dempere (anbefalt?)
 - Litt utstyr til å bytte dekk, åpne radiator, olje, luftfilter, etc.
+- Ekstra hjulbolter
 - Liten jekk
 - Måte å lokalisere hull, Lappesett, pumpe
 - Planker e.l. til å komme seg ut av gjørme og sand
