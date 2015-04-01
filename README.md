@@ -49,9 +49,12 @@ Huskeliste
 - Miniature whiskies are good gifts, generally better received than cigarettes.
 - Polaroid-kamera
 - Campingstoler, campingbord
+- Øks, flint, osv.
 - Printe ut oversikt over nød-telefonnummer og reiseguider for alle land
 - Å sette av minst 8 uker til eventyr her: http://pamirhighwayadventure.com/travel-tour/
 - Photo challenge: https://docs.google.com/a/stack.no/spreadsheets/d/1eMwZMiXej2shufD-Oqh_JktZvIe-O-tVcWkGHMDU4ek/edit#gid=0
+- http://chillout.no/index.php?menu=store&sub=pakkliste&list=jordenrundt
+- http://chillout.no/index.php?menu=store&sub=pakkliste&list=kilimanjaro
 
 ### International Driving Permit
 
