@@ -170,6 +170,10 @@ Visa machine:
 - Duration: 6 Months
 - Our fee: £20.00
 - Embassy fees: £16.00
+ 
+Stuff to do
+
+- https://www.facebook.com/MasqueradeClubIst
 
 ### Georgia
 
